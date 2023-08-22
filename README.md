@@ -1,6 +1,6 @@
 # calculator
 
-This project is created by Vedant Tulsyan, of COE batch 1CO26, roll number 102103745.
+This project is created by Vedant Tulsyan, of CO26.
 
 A new Flutter project.
 
